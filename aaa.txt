@@ -1,0 +1,10 @@
+pip install pandas numpy faker
+
+npm create-react-app sales-dashboard
+npm install react-router-dom
+npm install papaparse
+npm install react-chartjs-2 chart.js
+npm install chartjs-plugin-datalabels
+
+
+
